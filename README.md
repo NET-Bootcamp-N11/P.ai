@@ -1,1 +1,1 @@
-# P.ai
+# P.ai By Nuriddin Asrorov
