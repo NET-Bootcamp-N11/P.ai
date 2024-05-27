@@ -1,1 +1,10 @@
 # P.ai By Nuriddin Asrorov
+![Снимок экрана (91)](https://github.com/NET-Bootcamp-N11/P.ai/assets/145344775/9db6664c-7539-4a9f-b830-16c672b1538c)
+![Снимок экрана (92)](https://github.com/NET-Bootcamp-N11/P.ai/assets/145344775/b7878cb9-8176-475b-bb94-7881381d5935)
+![Снимок экрана (93)](https://github.com/NET-Bootcamp-N11/P.ai/assets/145344775/7fd89c1a-dc21-4510-a6af-ff7211945386)
+![Снимок экрана (94)](https://github.com/NET-Bootcamp-N11/P.ai/assets/145344775/6e3c62d6-807e-4f37-b4d0-8b424051483c)
+![Снимок экрана (95)](https://github.com/NET-Bootcamp-N11/P.ai/assets/145344775/0ef9496a-4194-4a22-bab4-718c8ce67f41)
+![Снимок экрана (96)](https://github.com/NET-Bootcamp-N11/P.ai/assets/145344775/f7fb0d8a-0a08-425e-988a-ab40ce70335c)
+![Снимок экрана (97)](https://github.com/NET-Bootcamp-N11/P.ai/assets/145344775/57e7ce33-d825-4e7f-a910-4a6e34eacfb8)
+![Снимок экрана (98)](https://github.com/NET-Bootcamp-N11/P.ai/assets/145344775/8f154485-d948-409b-9a75-a98d7629d00b)
+![Снимок экрана (99)](https://github.com/NET-Bootcamp-N11/P.ai/assets/145344775/5591d8bf-aaa0-434d-84f2-2f0f35e1bb51)
